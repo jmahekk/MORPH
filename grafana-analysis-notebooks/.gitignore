@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*_executed.ipynb
+
+# Data files (generated)
+*.csv
+*.pkl
+*.json
+
+# Visualizations (generated)
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Keep requirements and documentation
+!requirements.txt
+!README.md
+!SUMMARY.md
